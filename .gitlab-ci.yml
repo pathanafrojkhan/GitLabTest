@@ -5,5 +5,5 @@ sayHello:
 sayBye:
    script:
       - echo "thank you!"
-      - echo "welcome"
+      - echo "welcome gitlab"
       
