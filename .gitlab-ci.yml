@@ -5,3 +5,8 @@ sayHello:
 sayBye:
    script:
       - echo "thank you!"
+      
+test_job_1:
+  script:
+    - echo "Run a script that results in exit code 1. This job fails."
+    - exit 1
