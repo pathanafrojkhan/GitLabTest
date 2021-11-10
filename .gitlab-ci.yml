@@ -1,6 +1,7 @@
 sayHello:
    script: 
       - echo "hello gitlab ci/cd test"
+      - echo "github"
 sayBye:
    script:
       - echo "thank you!"
