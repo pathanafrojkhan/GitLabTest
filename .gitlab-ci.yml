@@ -5,7 +5,7 @@ sayHello:
 sayBye:
    script:
       - echo "thank you!"
-      - echo "welcome gitlab"
+      - echo "welcome"
       
 test_job_1:
   script:
