@@ -7,7 +7,3 @@ sayBye:
       - echo "thank you!"
       - echo "welcome"
       
-test_job_1:
-  script:
-    - echo "Run a script that results in exit code 1. This job fails."
-    - exit 1
