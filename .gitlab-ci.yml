@@ -4,7 +4,8 @@ sayHello:
       - echo "github"
 sayBye:
    script:
-      - echo "thank you! q"
+      - echo "thank you!"
+      - echo "welcome"
       
 test_job_1:
   script:
