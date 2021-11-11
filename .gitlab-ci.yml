@@ -6,4 +6,5 @@ sayBye:
    script:
       - echo "thank you!"
       - echo "welcome gitlab"
+      - echo "thank for use"
       
